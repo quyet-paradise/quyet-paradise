@@ -1,9 +1,8 @@
-<img src="https://github.com/quyet-paradise/quyet-paradise/blob/main/header.png" alt="Profile header">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Quyet+Tran+%3C3;Quyet+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-<p align="center">
+<p align="left">
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 </p>
 </div>
@@ -31,5 +30,5 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh tienhuynh-tn
+  &copy; 2022 Quyet Tran
 </div>
