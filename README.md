@@ -2,7 +2,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Quyet+Tran+%3C3;Quyet+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
+
+<p align="center">
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+</p>
+</div>
 <p align="center">
   <a href="mailto:quyet.trantien0402@gmail.com" >
     <img align="center" alt="QuyetTran | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
