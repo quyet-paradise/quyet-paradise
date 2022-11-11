@@ -3,6 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Quyet+Tran+%3C3;Quyet+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
+<pre>
+💻 I am a Front-end Developer
+📝 I have a strong interest in Web and Game development
+🔭 Working on Web development
+🌱 Learning about new programming language and web framework
+🌟 Main languages: JavaScript, Typescript, C++
+</pre>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"></img> Some Languages and Tools
 ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
